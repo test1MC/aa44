@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Microsoft PowerPoint Target"
+  Type="MsPowerPoint"
+  OutputFile="File Robert"
+  DisableAutoSync="false">
+  <PrintedOutput
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
+</CatapultTarget>

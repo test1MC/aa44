@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport ImportFolder="" PreserveMappedStyles="false" LastImport="2024-06-07T07:43:21.0418275-07:00" AutoSync="true">
+    <Files>
+        <Url Source="../../../../../Desktop/aa.docx" AbsoluteSource="file:///C:/Users/randonie/Desktop/aa.docx" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles />
+    <SkippedSourceFiles />
+    <GeneratedFiles>
+        <Url Source="../../Content/Testing 1.htm" TimeStamp="6/7/2024 7:43:18 AM" />
+        <Url Source="../TOCs/aa.fltoc" TimeStamp="6/7/2024 7:43:18 AM" />
+        <Url Source="../../Content/Resources/Stylesheets/aa.css" TimeStamp="6/7/2024 7:43:18 AM" />
+    </GeneratedFiles>
+    <ParagraphStyles />
+    <CharacterStyles />
+    <NewTopicStyles />
+</MsWordImport>
